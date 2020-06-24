@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "UNO_game", "UNO_game\UNO_game.pyproj", "{FAA7867C-6225-404E-9CA9-ABBCDD021FD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAA7867C-6225-404E-9CA9-ABBCDD021FD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA7867C-6225-404E-9CA9-ABBCDD021FD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA71DF42-D721-4B22-8918-A0367E0811B5}
+	EndGlobalSection
+EndGlobal
